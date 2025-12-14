@@ -26,6 +26,7 @@ pandas
 numpy
 matplotlib
 seaborn
+io
 ```
 
 ---
